@@ -1,0 +1,6 @@
+models/
+results/
+__pycache__/
+*.pkl
+*.keras
+.vscode/
